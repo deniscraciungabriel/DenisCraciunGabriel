@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DenisCraciunGabriel
 - 👀 I’m interested in Programming, Logic, Cybersecurity
 - 🌱 I’m currently learning CyberSecurity Web Vulnerabilities, practicing with Python and getting familiar with Web Developing
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deniscraciun19@gmail.com, instagram: @\_deniscraciun_, twitter: @deniscraciun4
 
 <!---
