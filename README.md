@@ -36,4 +36,5 @@ Hello! My name is Denis Craciun and I enjoy creating things on the internet and 
                           
                       <a href="http://www.instagram.com/_deniscraciun_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.stackoverflow.com/users/denis-gabriel-craciun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+                      <a href="https://www.stackoverflow.com/users/denis-gabriel-craciun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                      </p>
