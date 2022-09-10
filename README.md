@@ -6,7 +6,7 @@ Developer
 
 Hello! My name is Denis Craciun and I enjoy creating things on the internet and working with the back-end (although I also work with the front-end). My interest in programming started in 2020, during the Covid-19 lockdown, when I decided I was going to learn Python. I then learned more and more programming languages and technologies. My strong point is working with the backend, and languages such as C++, Python and Javascript are my main ones. I have strong knowlege about algorithms, and a very solid logic with very good problem solving skills. Cybersecurity is another passion that I have and that I'm trying to develop more and more. I am currently still in college and living in Italy, Portoferraio.
 
-*   🌍  I'm based in Italy, Portoferraio
+*   🌍  I'm based in Pisa, Italy
 *   🖥️  See my portfolio at [this link](http://deniscraciun.com)
 *   ✉️  You can contact me at [deniscraciun18@icloud.com](mailto:deniscraciun18@icloud.com)
 *   🧠  I'm learning NodeJS, React, CyberSecurity,
