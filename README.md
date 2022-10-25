@@ -9,8 +9,8 @@ Hello! My name is Denis Craciun and I enjoy creating things on the internet and 
 *   🌍  I'm based in Pisa, Italy
 *   🖥️  See my portfolio at [this link](http://deniscraciun.com)
 *   ✉️  You can contact me at [deniscraciun18@icloud.com](mailto:deniscraciun18@icloud.com)
-*   🧠  I'm learning NodeJS, React, CyberSecurity,
-*   🤝  I'm open to collaborating on eCommerces, CyberSecurity Projects, Back-End Projects
+*   🧠  Learning Assembly / C for the low level.
+*   🤝  Currently working, open for small collabs.
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
