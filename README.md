@@ -8,7 +8,8 @@ Hello! My name is Denis Craciun and I enjoy creating things on the internet and 
 
 *   🌍  I'm based in Pisa, Italy
 *   🖥️  See my portfolio at [this link](http://deniscraciun.com)
-*   ✉️  You can contact me at [deniscraciun18@icloud.com](mailto:deniscraciun18@icloud.com)
+*   📕  Check out my LinkedIn profile at [this link](https://www.linkedin.com/in/denis-craciun-2a3b391b8/)
+*   ✉️  You can contact me at [deniscraciun18@icloud.com](mailto:deniscraciun18@icloud.com)
 *   🧠  Learning Assembly / C for the low level.
 *   🤝  Currently working, open for small collabs.
 ### Skills
