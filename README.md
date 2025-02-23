@@ -4,7 +4,7 @@ Hi 👋 My name is Denis Craciun
 Software Developer
 ---------
 
-Hello! My name is Denis Craciun and I enjoy creating things on the internet and working with the back-end (although I also work with the front-end). My interest in programming started in 2020, during the Covid-19 lockdown, when I decided I was going to learn Python. I then learned more and more programming languages and technologies. My strong point is working with the backend, and languages such as C++, Python and Javascript are my main ones. I have strong knowlege about algorithms, and a very solid logic with very good problem solving skills. Cybersecurity is another passion that I have and that I'm trying to develop more and more. I am currently still in college and living in Italy, Portoferraio.
+Hi! I'm a code-slinging, football-kicking, Muay Thai-punching software developer with a knack for crossing borders. Born in Romania, thriving in Italy, and in love with a Brit – I'm living proof that good code (and great humor) is universal. When I'm not crafting elegant solutions or debugging the matrix, you'll find me on the pitch scoring goals or in the ring perfecting my roundhouse kick. I'm fluent in multiple programming languages and the language of friendship – just ask my four-legged pals. Always up for a challenge, whether it's a complex algorithm or a night out with friends. Let's connect and create something awesome – or just swap funny memes. Either way, it'll be legendary!
 
 *   🌍  I'm based in Pisa, Italy
 *   🖥️  See my portfolio at [this link](http://deniscraciun.co)
