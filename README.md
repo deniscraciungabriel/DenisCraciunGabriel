@@ -7,11 +7,11 @@ Software Developer
 Hello! My name is Denis Craciun and I enjoy creating things on the internet and working with the back-end (although I also work with the front-end). My interest in programming started in 2020, during the Covid-19 lockdown, when I decided I was going to learn Python. I then learned more and more programming languages and technologies. My strong point is working with the backend, and languages such as C++, Python and Javascript are my main ones. I have strong knowlege about algorithms, and a very solid logic with very good problem solving skills. Cybersecurity is another passion that I have and that I'm trying to develop more and more. I am currently still in college and living in Italy, Portoferraio.
 
 *   🌍  I'm based in Pisa, Italy
-*   🖥️  See my portfolio at [this link](http://deniscraciun.com)
+*   🖥️  See my portfolio at [this link](http://deniscraciun.co)
 *   📕  Check out my LinkedIn profile at [this link](https://www.linkedin.com/in/denis-craciun-2a3b391b8/)
 *   ✉️  You can contact me at [deniscraciun18@icloud.com](mailto:deniscraciun18@icloud.com)
-*   🧠  Learning Assembly / C for the low level.
-*   🤝  Currently working, open for small collabs.
+*   🧠  Currently into machine learning.
+*   🤝  Working, open for small collabs.
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
